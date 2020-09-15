@@ -5,7 +5,14 @@ html {
 }
 
 body {
-    h1 {
+    > h1 {
         font-size: 3rem;
     }
+    
+    .container {
+        display: flex;
+        flex-direction: row-reverse;
+    }
+
+  
 }

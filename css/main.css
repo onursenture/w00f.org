@@ -4,6 +4,10 @@ html {
   background-color: black;
 }
 
-body h1 {
+body > h1 {
   font-size: 3rem;
+}
+body .container {
+  display: flex;
+  flex-direction: row-reverse;
 }
