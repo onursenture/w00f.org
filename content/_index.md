@@ -1,6 +1,0 @@
-+++
-framed = true
-+++
-
-# header
-subheader

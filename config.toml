@@ -28,7 +28,7 @@ paginate = 5
 [languages]
   [languages.en]
     title = "w00f.org"
-    subtitle = "A simple theme for Hugo"
+    subtitle = "while the city's busy sleeping"
     keywords = ""
     copyright = ""
     menuMore = "Show more"
