@@ -1,5 +1,5 @@
 +++
-author = "Elliot"
+author = "w00f"
 cover = "img/hello.jpg"
 date = 1986-09-17T00:00:00Z
 description = "\"Hello, friend?\" That's lame. Maybe I should give you a name?"
