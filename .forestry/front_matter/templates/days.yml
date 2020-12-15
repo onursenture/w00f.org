@@ -1,4 +1,10 @@
 ---
 label: Days
 hide_body: true
-fields: []
+fields:
+- name: alc
+  type: boolean
+  label: Alc
+- name: cig
+  type: boolean
+  label: Cig
