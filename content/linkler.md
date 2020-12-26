@@ -6,17 +6,13 @@ author: w00f
 ---
 burada 2018'in şubatından bu yana biriktirmekte olduğum bazı linkleri listeleyeceğim. günümüz linklerine gelmem biraz zaman alabilir keza fifo.
 
-**şubat 2018**
+**nisan 2018**
 
-* [https://anchor.fm](https://anchor.fm/ "https://anchor.fm/") sanki podcast yapacakmışım gibi kaydedilmiş 1 link. (yapmadı)
-* [https://blotter.js.org](https://blotter.js.org/ "https://blotter.js.org/") burada da kullanmayı çok istediğim kendi tabirleriyle "unconventional text effects" kütüphanesi
-* [https://commerce.coinbase.com](https://commerce.coinbase.com/ "https://commerce.coinbase.com/") payment gateway gerekirse demiştim de... :D
-* [https://epic-spinners.epicmax.co](https://epic-spinners.epicmax.co/ "https://epic-spinners.epicmax.co/") mit lisanslı spinner kütüphanesi.
-* [https://gyrosco.pe/teams](https://gyrosco.pe/teams/ "https://gyrosco.pe/teams/") fikir biraz tuhaf ama gyrosco.pe ekibinin tasarım anlayışını pek sevdiğimden kaydetmiştim.
-* [https://orioniconlibrary.com](https://orioniconlibrary.com/ "https://orioniconlibrary.com/") pixeden'in ikon kütüphanesi. ticari kullanımı ücretli.
-* [https://www.trailernite.com](https://www.trailernite.com "https://www.trailernite.com") trailer seçkisi paylaşan bir site.
-* [https://github.com/tuhdo/os01](https://github.com/tuhdo/os01 "https://github.com/tuhdo/os01") çok iyi başlamıştı ama üçüncü bölüm hala gelmemiş.
-* [https://veeer.io](https://veeer.io "https://veeer.io") osx için bir pencere yöneticisi. ben halen spectacle kullanıyorum.
+* [https://whatmovieshouldiwatchtonight.com](https://whatmovieshouldiwatchtonight.com "https://whatmovieshouldiwatchtonight.com") imdb izleme listeme en az 50 film eklememe sebep olmuş seçki.
+* [https://wiki.debian.org/FreedomBox](https://whatmovieshouldiwatchtonight.com "https://whatmovieshouldiwatchtonight.com") debian altında geliştirilen bir kutu. dosya paylaşımı, vpn, chat, proxy sunucu, web sunucu gibi şeyler sağlıyor. gizlilik ve veri sahipliği. önemli şeyler.
+* [https://pinfinder.net](https://whatmovieshouldiwatchtonight.com "https://whatmovieshouldiwatchtonight.com") ios 7'den 12.4'e kadar ki cihazlarda passcode bulmaya yarayan fasilite.
+* [https://fiplab.com/apps/power-menu-for-mac](https://whatmovieshouldiwatchtonight.com "https://whatmovieshouldiwatchtonight.com") finder'a ekstra özellikler ekleyen bir uygulama. henüz ihtiyacım olmadı.
+* [https://progressivepunctuation.com](https://whatmovieshouldiwatchtonight.com "https://whatmovieshouldiwatchtonight.com") 14 yeni noktalama işareti. tadında bırakmışlar.
 
 **mart 2018**
 
@@ -30,12 +26,14 @@ burada 2018'in şubatından bu yana biriktirmekte olduğum bazı linkleri listel
 * [https://prettier.io](https://prettier.io "https://prettier.io") kod formatlayıcı.
 * [https://pitchfork.com/features/ok-computer-at-20/10028-twelve-visual-artists-interpret-the-12-songs-on-radioheads-ok-computer/](https://pitchfork.com/features/ok-computer-at-20/10028-twelve-visual-artists-interpret-the-12-songs-on-radioheads-ok-computer/ "https://pitchfork.com/features/ok-computer-at-20/10028-twelve-visual-artists-interpret-the-12-songs-on-radioheads-ok-computer/") 12 görsel sanatçı radiohead'in ok computer albümünü yorumluyor.
 
-**nisan 2018**
+**şubat 2018**
 
-* [https://whatmovieshouldiwatchtonight.com](https://whatmovieshouldiwatchtonight.com/ "https://whatmovieshouldiwatchtonight.com/") imdb izleme listeme en az 50 film eklememe sebep olmuş seçki.
-* [https://wiki.debian.org/FreedomBox](https://wiki.debian.org/FreedomBox/ "https://wiki.debian.org/FreedomBox/") debian altında geliştirilen bir kutu. dosya paylaşımı, vpn, chat, proxy sunucu, web sunucu gibi şeyler sağlıyor. gizlilik ve veri sahipliği. önemli şeyler.
-* [https://pinfinder.net](https://pinfinder.net/ "https://pinfinder.net/") ios 7'den 12.4'e kadar ki cihazlarda passcode bulmaya yarayan fasilite.
-* [https://fiplab.com/apps/power-menu-for-mac](https://fiplab.com/apps/power-menu-for-mac "https://fiplab.com/apps/power-menu-for-mac") finder'a ekstra özellikler ekleyen bir uygulama. henüz ihtiyacım olmadı.
-* [https://progressivepunctuation.com](https://progressivepunctuation.com/ "https://progressivepunctuation.com/") 14 yeni noktalama işareti. tadında bırakmışlar.
-
-_devamı gelecek._
+* [https://anchor.fm](https://anchor.fm "https://anchor.fm") sanki podcast yapacakmışım gibi kaydedilmiş 1 link. (yapmadı)
+* [https://blotter.js.org](https://anchor.fm "https://anchor.fm") burada da kullanmayı çok istediğim kendi tabirleriyle "unconventional text effects" kütüphanesi
+* [https://commerce.coinbase.com](https://anchor.fm "https://anchor.fm") payment gateway gerekirse demiştim de... :D
+* [https://epic-spinners.epicmax.co](https://anchor.fm "https://anchor.fm") mit lisanslı spinner kütüphanesi.
+* [https://gyrosco.pe/teams](https://anchor.fm "https://anchor.fm") fikir biraz tuhaf ama gyrosco.pe ekibinin tasarım anlayışını pek sevdiğimden kaydetmiştim.
+* [https://orioniconlibrary.com](https://anchor.fm "https://anchor.fm") pixeden'in ikon kütüphanesi. ticari kullanımı ücretli.
+* [https://www.trailernite.com](https://anchor.fm "https://anchor.fm") trailer seçkisi paylaşan bir site.
+* [https://github.com/tuhdo/os01](https://anchor.fm "https://anchor.fm") çok iyi başlamıştı ama üçüncü bölüm hala gelmemiş.
+* [https://veeer.io](https://anchor.fm "https://anchor.fm") osx için bir pencere yöneticisi. ben halen spectacle kullanıyorum.
