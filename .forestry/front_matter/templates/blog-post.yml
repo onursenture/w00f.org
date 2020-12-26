@@ -1,0 +1,19 @@
+---
+label: blog-post
+hide_body: true
+fields:
+- type: text
+  name: title
+  label: title
+- type: file
+  name: cover
+  label: cover
+- type: text
+  name: description
+  label: description
+- type: datetime
+  name: date
+  label: date
+- type: text
+  name: hideReadMore
+  label: hideReadMore
