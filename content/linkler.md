@@ -6,6 +6,8 @@ author: w00f
 ---
 burada 2018'in şubatından bu yana biriktirmekte olduğum bazı linkleri listeleyeceğim. günümüz linklerine gelmem biraz zaman alabilir keza fifo.
 
+edit: yalnız daha mayıs 2018'de bile liste bu hale geldiyse, daha bunun 8 katı link var napacağız?
+
 **mayıs 2018**
 
 * [https://tr.arguman.org](https://tr.arguman.org/ "https://tr.arguman.org/") eşsiz bir analiz platformu.
