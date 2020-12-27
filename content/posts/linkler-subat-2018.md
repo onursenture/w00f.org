@@ -1,9 +1,9 @@
 +++
-cover = "img/hello.jpg"
-date = 2020-12-25T21:00:00Z
+cover = "uploads/2018-subat-linkler.jpg"
+date = 2020-12-27T15:13:00Z
 description = "kardeşlerimle iyi vakit geçirdiğim, gayet sorunsuz gözüken bir ay 2018 şubat. bu yazı da o aya ait firefox bookmarklarını içeriyor."
 draft = true
-hideReadMore = "true"
+hideReadMore = false
 title = "linkler - şubat 2018"
 
 +++
