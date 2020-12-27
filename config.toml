@@ -56,7 +56,4 @@ paginate = 5
         identifier = "kim"
         name = "kim"
         url = "/kim"
-      [[languages.en.menu.main]]
-        identifier = "linkler"
-        name = "linkler"
-        url = "/linkler"
+        
