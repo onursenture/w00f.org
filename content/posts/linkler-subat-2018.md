@@ -3,7 +3,7 @@ cover = "uploads/2018-subat-linkler.jpg"
 date = 2020-12-27T15:13:00Z
 description = "kardeşlerimle iyi vakit geçirdiğim, gayet sorunsuz gözüken bir ay 2018 şubat. bu yazı da o aya ait firefox bookmarklarını içeriyor."
 hideReadMore = false
-title = "linkler - şubat 2018"
+title = "linkler ~ şubat 2018"
 
 +++
 * [https://anchor.fm](https://anchor.fm "https://anchor.fm") sanki podcast yapacakmışım gibi kaydedilmiş 1 link. (yapmadı)
