@@ -1,19 +1,19 @@
 +++
-cover = "uploads/2018-mayis-linkler.jpg"
+cover = "uploads/2018-haziran-linkler.jpg"
 date = 2020-12-27T15:45:00Z
-description = "biricik annemin ameliyat olduğu, yui'nin de kolej diplomasını aldığı bir ay. ameliyat öncesinde, psikolojik açıdan zor bir şey olduğundan markete gönderilmiş, sonradan anlamıştım. caps oradan."
-draft = true
+description = "kripto paralara ilgimizin yoğun olduğu bir ay. bu capsi de tam olarak o amaçla çekmiştik. gelecekte olacakları hepimiz biliyorduk. çektiğimiz gün kapanış fiyatı $6,173. bugün $27,394. diyecek bir şeyim yok."
 hideReadMore = false
 title = "linkler ~ haziran 2018"
 
 +++
-* [https://tr.arguman.org](https://tr.arguman.org "https://tr.arguman.org") eşsiz bir analiz platformu.
-* [https://cchound.com](https://tr.arguman.org "https://tr.arguman.org") cc lisanslı müziklerin paylaşıldığı servis.
-* [https://github.com/danistefanovic/build-your-own-x](https://tr.arguman.org "https://tr.arguman.org") bir şey yapmak gerekirse ya da random programlama okuma istekleri için kaydetmiştim.
-* [https://fuse.blog](https://tr.arguman.org "https://tr.arguman.org") benim burada topluca yaptığımı uzun zamandır her gün yapmaktalar.
-* [http://everynoise.com](https://tr.arguman.org "https://tr.arguman.org") bütün müzik türlerini görüp dinleyebiliyoruz. sayfanın altında bambaşka çalışmaları da var ki, bitmeyen bir hazine.
-* [https://flyingmeat.com/retrobatch](https://tr.arguman.org "https://tr.arguman.org") yine bir batch imaj editleme uygulaması.
-* [https://github.com/sandoche/Proof-of-Stake-Cryptocurrency-generator](https://tr.arguman.org "https://tr.arguman.org") bir takım boş işler.
-* [https://spiritapp.io](https://tr.arguman.org "https://tr.arguman.org") çok güzel animasyon kütüphanesi de, yılda 144 dolar da türkiye şartlarında o iş için? ben almayayım.
-* [https://www.nytimes.com/interactive/2018/05/16/upshot/audio-clip-yanny-laurel-debate.html](https://tr.arguman.org "https://tr.arguman.org") bir ses kaydı var, kimisi laurel duyuyor kimisi yanny. bu linki de enteresan bulduğum zamanlarda çalışıyordu, şimdi denedim slider'ı en sola da getirsem yanny duyuyorum. ya ben bozuldum ya nyt.
-* [https://writingstreak.io/](https://tr.arguman.org "https://tr.arguman.org") yazma meselesinde verimliliğe kafayı takan yüzlerce uygulamadan bir diğeri. writer's block dedikleri problem bizim alanımızda da var ama kimse çözmeye çalışmıyor.
+* [https://blog.discourse.org/2014/04/install-discourse-in-under-30-minutes](https://blog.discourse.org/2014/04/install-discourse-in-under-30-minutes/ "https://blog.discourse.org/2014/04/install-discourse-in-under-30-minutes/") hayranı olduğum bir forum yazılımının 30 dakika altında kurulum dokümanı. 2020'de nihayet okuma ve kurma fırsatı buldum bizzat bu domain altında. aşırı iyi.
+* [https://www.sqreen.com/checklists/html-css-security-checklist](https://www.sqreen.com/checklists/html-css-security-checklist "https://www.sqreen.com/checklists/html-css-security-checklist") hala okumadığım bir html/css güvenlik listesi. bu ara okurum.
+* [https://book.pythontips.com/en/latest/index.html](https://book.pythontips.com/en/latest/index.html "https://book.pythontips.com/en/latest/index.html") intermediate python dokümantasyonu.
+* [https://thenounproject.com/symbolon/uploads](https://thenounproject.com/symbolon/uploads/ "https://thenounproject.com/symbolon/uploads/") neden kaydettiğimi hatırlamadığım bir noun project hesabı.
+* [https://www.youtube.com/watch?v=E3yJJY4jNPY](https://www.youtube.com/watch?v=E3yJJY4jNPY "https://www.youtube.com/watch?v=E3yJJY4jNPY") abi/abla benim de o zamanlar yapmaktan keyif aldığım 8x'te dashboard çizme işini yapıyor. ama hiç kaydetmiyor. :D ya allah aşkına 1 cmd+save bas kardeş biz geriliyoruz burada.
+* [https://about.gitlab.com/company/culture/all-remote](https://about.gitlab.com/company/culture/all-remote/ "https://about.gitlab.com/company/culture/all-remote/") gitlab'ın remote kültürünü anlattığı kitabı.
+* [https://boxicons.com](https://boxicons.com/ "https://boxicons.com/") kendim de bir ikon kütüphanesi yapmakta olduğumdan, pazar araştırması amaçlı kaydedilmiş.
+* [https://vanschneider.com/colors](https://vanschneider.com/colors "https://vanschneider.com/colors") renk meselesine nokta koymuş diyemem. yine de iyi.
+* [https://www.buymeacoffee.com](https://www.buymeacoffee.com/ "https://www.buymeacoffee.com/") modern dilencilik.
+* [https://www.fourmilab.ch/etexts/www/barnum/moneygetting](https://www.fourmilab.ch/etexts/www/barnum/moneygetting/ "https://www.fourmilab.ch/etexts/www/barnum/moneygetting/") para kazanmak üzerine bir kitap.
+* [https://github.com/LeCoupa/awesome-cheatsheets/blob/master/frontend/angular.js](https://github.com/LeCoupa/awesome-cheatsheets/blob/master/frontend/angular.js "https://github.com/LeCoupa/awesome-cheatsheets/blob/master/frontend/angular.js") angular.js hile kağıdı.
