@@ -1,7 +1,7 @@
 +++
 cover = "uploads/2018-mayis-linkler.jpg"
 date = 2020-12-27T15:45:00Z
-description = "biricik annemin ameliyat olduğu, yui'nin de kolej diplomasını aldığı bir ay."
+description = "biricik annemin ameliyat olduğu, yui'nin de kolej diplomasını aldığı bir ay. ameliyat öncesinde, psikolojik açıdan zor bir şey olduğundan markete gönderilmiştim. sonradan anlamıştım. caps oradan."
 hideReadMore = false
 title = "linkler ~ mayıs 2018"
 
