@@ -2,6 +2,7 @@
 cover = "uploads/2018-mart-linkler.jpg"
 date = 2020-12-27T15:25:00Z
 description = "yui'min bu son derece sanatsal fotografını çektiğim, ng-conf hazırlıklarının olduğu, paranoyası da son derece yüksek bir ay. "
+draft = true
 hideReadMore = false
 title = "linkler ~ mart 2018"
 
