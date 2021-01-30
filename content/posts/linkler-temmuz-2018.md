@@ -2,6 +2,7 @@
 cover = "uploads/2018-temmuz-linkler.jpg"
 date = 2021-01-11T06:00:00Z
 description = "kayıp bir ay denebilir. linklerin çokluğundan anladığım kadarıyla bilgisayar başında geçmiş."
+draft = true
 hideReadMore = false
 title = "linkler ~ temmuz 2018"
 
