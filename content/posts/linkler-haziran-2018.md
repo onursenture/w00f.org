@@ -2,6 +2,7 @@
 cover = "uploads/2018-haziran-linkler.jpg"
 date = 2020-12-27T15:45:00Z
 description = "kripto paralara ilgimizin yoğun olduğu bir ay. bu capsi de tam olarak o amaçla çekmiştik. gelecekte olacakları hepimiz biliyorduk. çektiğimiz gün kapanış fiyatı $6,173. bugün $27,394. diyecek bir şeyim yok."
+draft = true
 hideReadMore = false
 title = "linkler ~ haziran 2018"
 
