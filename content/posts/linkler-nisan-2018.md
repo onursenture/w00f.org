@@ -2,6 +2,7 @@
 cover = "uploads/2018-nisan-linkler.jpg"
 date = 2020-12-27T15:35:00Z
 description = "ng-conf 2018 temalı 1 haftası amerika'da geçen; yani 1 haftasını gün be gün anlatabileceğim kadar hatırladığım bir ay."
+draft = true
 hideReadMore = false
 title = "linkler ~ nisan 2018"
 
