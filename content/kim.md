@@ -2,6 +2,7 @@
 title: kim
 date: 2020-12-26
 author: w00f
+draft: true
 
 ---
 > tek bir soru hemşerim memleket nire? bu dünya benim memleket.
