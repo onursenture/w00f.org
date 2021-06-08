@@ -12,6 +12,5 @@ title = "linkler ~ şubat 2018"
 * [https://epic-spinners.epicmax.co](https://epic-spinners.epicmax.co) mit lisanslı spinner kütüphanesi.
 * [https://gyrosco.pe/teams](https://gyrosco.pe/teams) fikir biraz tuhaf ama gyrosco.pe ekibinin tasarım anlayışını pek sevdiğimden kaydetmiştim.
 * [https://orioniconlibrary.com](https://orioniconlibrary.com) pixeden'in ikon kütüphanesi. ticari kullanımı ücretli.
-* [https://www.trailernite.com](https://www.trailernite.com) trailer seçkisi paylaşan bir site.
 * [https://github.com/tuhdo/os01](https://github.com/tuhdo/os01) çok iyi başlamıştı ama üçüncü bölüm hala gelmemiş.
 * [https://veeer.io](https://veeer.io) osx için bir pencere yöneticisi. ben halen spectacle kullanıyorum.
