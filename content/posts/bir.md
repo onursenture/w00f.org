@@ -1,9 +1,10 @@
 ---
-title: selam
-cover: img/hello.jpg
+author: ''
+title: bir
+date: 2021-02-11T21:00:00.000Z
+lastMod: 2021-02-11T21:00:00.000Z
+cover: /img/hello.jpg
 description: ''
-date: 2020-12-26T00:00:00.000+03:00
-hideReadMore: 'true'
-
+hideReadMore: true
 ---
-......
+

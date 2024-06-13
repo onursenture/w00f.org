@@ -9,10 +9,10 @@ paginate = 5
   contentTypeName = "posts"
 
   # "light" or "dark"
-  defaultTheme = "dark"
+  defaultTheme = "light"
 
   # if you set this to 0, only submenu trigger will be visible
-  showMenuItems = 2
+  showMenuItems = 3
 
   # Show reading time in minutes for posts
   showReadingTime = false
@@ -37,7 +37,7 @@ paginate = 5
     readOtherPosts = "diğer yazıları oku"
     newerPosts = "yenileri"
     olderPosts = "eskileri"
-    minuteReadingTime = "dakkanı alır"
+    minuteReadingTime = "dakika okuma süresi"
     dateFormatSingle = "2006-01-02"
     dateFormatList = "2006-01-02"
     # leave empty to disable, enter display text to enable
@@ -53,7 +53,6 @@ paginate = 5
 
     [languages.en.menu]
       [[languages.en.menu.main]]
-        identifier = "kim"
-        name = "kim"
-        url = "/kim"
-        
+        identifier = "now"
+        name = "now"
+        url = "/now"
