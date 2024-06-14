@@ -99,6 +99,11 @@ export default defineConfig({
         fields: [
           {
             type: 'string',
+            label: 'Title',
+            name: 'title',
+          },
+          {
+            type: 'string',
             label: 'Author',
             name: 'author',
           },

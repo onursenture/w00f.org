@@ -2,7 +2,6 @@ baseurl = "/"
 languageCode = "en-us"
 theme = "hello-friend"
 paginate = 5
-enableGitInfo = false
 
 [params]
   # dir name of your blog content (default is `content/posts`).
@@ -31,14 +30,14 @@ enableGitInfo = false
     title = "w00f.org"
     subtitle = "while the city's busy sleeping"
     keywords = ""
-    copyright = "w00f.org. eskişehir - copyleft - hiçbir hakkı saklı değildir. "
-    menuMore = "dahası"
-    writtenBy = "yazan"
-    readMore = "devamını oku"
-    readOtherPosts = "diğer yazıları oku"
-    newerPosts = "yenileri"
-    olderPosts = "eskileri"
-    minuteReadingTime = "dakika okuma süresi"
+    copyright = "w00f.org 🦅 eskişehir "
+    menuMore = "more"
+    writtenBy = "author"
+    readMore = "read more"
+    readOtherPosts = "read other posts"
+    newerPosts = "new"
+    olderPosts = "old"
+    minuteReadingTime = "minute reading"
     dateFormatSingle = "2006-01-02"
     dateFormatList = "2006-01-02"
     # leave empty to disable, enter display text to enable
@@ -55,5 +54,13 @@ enableGitInfo = false
     [languages.en.menu]
       [[languages.en.menu.main]]
         identifier = "now"
-        name = "now"
+        name = "Now"
         url = "/now"
+      [[languages.en.menu.main]]
+        identifier = "uses"
+        name = "Uses"
+        url = "/uses"
+      [[languages.en.menu.main]]
+        identifier = "wishlist"
+        name = "Wishlist"
+        url = "/wishlist"
