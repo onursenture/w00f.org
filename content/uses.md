@@ -8,6 +8,7 @@ date: 2024-06-13T21:00:00.000Z
 * Apple M1 Pro 16-inch
 * LG Ultrafine 27-inch 5K Display
 * Apple Magic Keyboard
+* Apple Magic Mouse
 * Apple Magic Trackpad
 * Kindle Paperwhite (7th generation)
 * iPhone 12
