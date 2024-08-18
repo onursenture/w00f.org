@@ -7,7 +7,6 @@ lastMod: 2024-06-21T21:00:00.000Z
 
 ### 💵
 
-* [LEGO Technic John Deere](https://www.amazon.com.tr/LEGO-Technic-9620R-Trakt%C3%B6r-42136/dp/B09RSNZ447)
 * [Apple AirTag](https://www.apple.com/tr/airtag/)
 
 ### 💵💵
