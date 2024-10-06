@@ -5,7 +5,7 @@ date: 2024-06-12T21:00:00.000Z
 lastMod: 2024-10-05T21:00:00.000Z
 ---
 
-* My mother died on September 13th, 2024, after almost three years of a series of illnesses and 23 days in the ICU.
+* My **mother** died on September 13th, 2024, after almost three years of a series of illnesses and 23 days in the ICU.
 * **Yui** is OK, no serious health issues right now.
 * **Current task at Prime:** New V4 theming support for PrimeOne UI Kit 3.0.0
 * **Recently watched and liked movies:** [System Crasher](https://letterboxd.com/film/system-crasher/), [Perfect Days](https://letterboxd.com/film/perfect-days-2023/), [Get Out,](https://letterboxd.com/film/get-out-2017/) and [The Town](https://letterboxd.com/film/the-town/).
