@@ -1,6 +1,7 @@
 ---
 title: Things I use
 date: 2024-06-13T21:00:00.000Z
+lastMod: 2024-11-29T21:00:00.000Z
 ---
 
 ### Gear
