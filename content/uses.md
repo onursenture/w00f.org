@@ -27,6 +27,8 @@ date: 2024-06-13T21:00:00.000Z
 
 ### Gaming
 
+* PlayStation 5 Pro
+  * PULSE Elite wireless headset
 * Xbox Series X
 * Gaming PC
   * AMD Ryzen 5 3600X
@@ -40,7 +42,6 @@ date: 2024-06-13T21:00:00.000Z
   * Steelseries Rival 710 Gaming Mouse
   * Steelseries Arctis 5 Headphone
 * Anbernic RG35XX H
-* PlayStation 4
 
 ### Software
 
