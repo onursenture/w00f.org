@@ -1,7 +1,7 @@
 ---
 title: Things I use
 date: 2024-06-13T21:00:00.000Z
-lastMod: 2024-11-29T21:00:00.000Z
+lastMod: 2024-12-14T21:00:00.000Z
 ---
 
 ### Gear
@@ -14,6 +14,7 @@ lastMod: 2024-11-29T21:00:00.000Z
 * Kindle Paperwhite (7th generation)
 * iPhone 12
 * Apple Watch SE
+* Fujifilm X100VI
 
 ### Home
 
